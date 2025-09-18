@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "java.project.sourcePaths": [
+        "java",
+        "vehiclecar_rental"
+    ],
+    "editor.fontSize": 12
+}
